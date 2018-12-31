@@ -1,0 +1,42 @@
+.display-4 {
+  text-align: center;
+}
+
+.lead {
+  text-align: center;
+}
+
+.card {
+  box-shadow: 0 5px 10px;
+  margin-bottom: 40px
+}
+
+.card-body {
+  background-color: #e9ecef;
+}
+
+a {
+  color: rgb(255, 255, 255);
+}
+
+a:hover {
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.2);
+}
+
+footer {
+  height: 30px
+}
+
+.my-nav {
+  color: rgba(255, 255, 255, 0.7);
+  padding-left: 20px;
+}
+
+.my-nav-active {
+  color: rgba(255, 255, 255, 1);
+}
+
+.my-nav-active:hover {
+  color: rgba(255, 255, 255, 1);
+}
